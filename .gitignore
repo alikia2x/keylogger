@@ -1,0 +1,6 @@
+.vscode
+key.log
+stderr.log
+stdout.log
+# fuck apple
+.DS_Store
